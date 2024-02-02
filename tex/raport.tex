@@ -1,3 +1,5 @@
+%! TEX program = pdflatex
+
 \documentclass{article}
 \usepackage{polski}
 \usepackage{tgpagella}
@@ -43,15 +45,18 @@ urlcolor=blue
 Poniższy raport przedstawia analizę szeregu czasowego opisującego obciążenie na sieci elektrycznej na podstawie danych z rynku amerykańskiego z przestrzeni dni od 01.01.2016 do 31.12.2017. 
 \end{abstract}
 
+% ============================================================
+% =========               WSTĘP                      =========
+% ============================================================
+\section{Wstęp}
 
 % ---------------- RYNKI DAY-AHEAD --------------------------
-\section{Rynki day-ahead} 
+\subsection{Rynki day-ahead} 
 
 W przypadku energii elektrycznej do zawierania kontraktów kupna-sprzedaży pomiędzy spółkami energetycznymi a operatorami elektrowni i sieci dochodzi na rynku \textit{day-ahead}, który nie pozwala na ciągły handel między uczestnikami. Na taki rynek spływają oferty kupna i dostarczenia konkretnej ilości energii na \textbf{każdą godzinę następnego dnia}. Ceny na każdy z tych okresów wyznaczane są jako punkt przecięcia się \textbf{krzywej popytu} i \textbf{podaży}. 
 
-
 % ----------------- SZEREGI ARMA ----------------------------
-\section{Szeregi ARMA}
+\subsection{Szeregi ARMA}
 Głównym celem raportu będzie dopasowanie szeregu ARMA do danych, więc należy wpierw przypomnieć jego definicję. 
 
 \begin{definition}
@@ -61,11 +66,12 @@ Szereg czasowy ${\left\lbrace X_t \right\rbrace}_{t \in Z}$ nazywamy szeregiem $
 $$ X_t = \varepsilon_t + \sum_{i=0}^p \phi_i\,X_{t-i} + \sum_{i=0}^q \theta_i\,\varepsilon_{t-i} $$
 
 gdzie współczynniki $\phi_i$ oraz $\theta_i$ to współczynniki modelu zaś $\varepsilon_i \sim \text{WN}(0, \sigma^2)$. 
+
 \end{definition}
 
 
 % ---------------- OPIS DANYCH -------------------------------
-\section{Opis danych}
+\subsection{Opis danych}
 \href{https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption}{Dane}, do których został dopasowany model zostały udostępnione w domenie publicznej. Przedstawiają one ilości energii elektrycznej na którą zostały zawarte kontrakty na rynku \textbf{PMJ} na każdą godzinie dni pomiędzy 01.01.2016 a 31.12.2017. Obejmują więc okres dwuletni. Horyzont czasowy specjalnie został dobrany tak aby można było zaobserwować różne sezonowości dotyczące cen energii elektrycznej, to jest \textbf{sezonowość dobową} (związaną z cyklem dzień-noc), \textbf{tygodniową} (dni robocze-weekend) oraz \textbf{roczną} (pory roku). 
 
 \end{document}
