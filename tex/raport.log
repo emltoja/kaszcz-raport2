@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.15)  2 FEB 2024 11:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.15)  5 FEB 2024 12:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -604,13 +604,13 @@ Package rerunfilecheck Info: File `raport.out' has not changed.
 Here is how much of TeX's memory you used:
  9677 strings out of 480120
  150149 string characters out of 5894496
- 474090 words of memory out of 5000000
+ 476090 words of memory out of 5000000
  26116 multiletter control sequences out of 15000+600000
  576689 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,6n,78p,736b,323s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {D:/LaTeX/fonts/enc/dvips/pl/plrm.enc}{D:/LaTeX/fonts/enc/dvips/pl/plme.enc}{D:/LaTeX/fonts/enc/dvips/pl/plms.enc}{D:/LaTeX/fonts/enc/dvips/pl/plmi.enc}{D:/LaTeX/fonts/enc/dvips/tex-gyre/q-rm.enc}<D:/LaTeX/fonts/type1/public/pl/plex10.pfb><D:/LaTeX/fonts/type1/public/pl/plmi10.pfb><D:/LaTeX/fonts/type1/public/pl/plmi7.pfb><D:/LaTeX/fonts/type1/public/pl/plr10.pfb><D:/LaTeX/fonts/type1/public/pl/plr7.pfb><D:/LaTeX/fonts/type1/public/pl/plsy10.pfb><D:/LaTeX/fonts/type1/public/pl/plsy7.pfb><D:/LaTeX/fonts/type1/public/tex-gyre/qplb.pfb><D:/LaTeX/fonts/type1/public/tex-gyre/qplr.pfb><D:/LaTeX/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on raport.pdf (1 page, 185542 bytes).
+Output written on raport.pdf (1 page, 186054 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
