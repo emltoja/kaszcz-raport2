@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.15)  5 FEB 2024 12:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.15)  5 FEB 2024 16:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -8,8 +8,8 @@ entering extended mode
 LaTeX2e <2020-10-01> patch level 1
 L3 programming layer <2020-10-05> xparse <2020-03-03> (D:\LaTeX\tex/latex/base\article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(D:\LaTeX\tex/latex/base\size10.clo
-File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+(D:\LaTeX\tex/latex/base\size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
 \c@part=\count175
 \c@section=\count176
@@ -260,6 +260,13 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
+) (D:\LaTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ) (D:\LaTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen162
@@ -463,33 +470,33 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen190
 \Gm@dimlist=\toks30
  (D:\LaTeX\tex/latex/geometry\geometry.cfg))
-Package hyperref Info: Option `colorlinks' set `true' on input line 26.
+Package hyperref Info: Option `colorlinks' set `true' on input line 27.
 \c@definition=\count293
-LaTeX Font Info:    Trying to load font information for OT4+qpl on input line 40.
+LaTeX Font Info:    Trying to load font information for OT4+qpl on input line 41.
  (D:\LaTeX\tex/latex/tex-gyre\ot4qpl.fd
 File: ot4qpl.fd 2009/09/25 v1.2 font definition file for OT4/qpl
 ) (raport.aux)
 \openout1 = `raport.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-Package hyperref Info: Link coloring ON on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+Package hyperref Info: Link coloring ON on input line 41.
  (D:\LaTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (D:\LaTeX\tex/latex/refcount\refcount.sty
@@ -499,9 +506,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count294
 )
-LaTeX Info: Redefining \ref on input line 40.
-LaTeX Info: Redefining \pageref on input line 40.
-LaTeX Info: Redefining \nameref on input line 40.
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
  (raport.out) (raport.out)
 \@outlinefile=\write3
 \openout3 = `raport.out'.
@@ -537,23 +544,23 @@ Package caption Info: End \AtBeginDocument code.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(108.405pt, 397.485pt, 108.405pt)
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
 * v-part:(T,H,B)=(36.135pt, 722.7pt, 36.135pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=397.485pt
+* \textwidth=469.75502pt
 * \textheight=722.7pt
-* \oddsidemargin=36.13501pt
-* \evensidemargin=36.13501pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
 * \topmargin=-73.135pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -563,56 +570,104 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for OML+plm on input line 42.
+LaTeX Font Info:    Trying to load font information for OML+plm on input line 43.
 (D:\LaTeX\tex/latex/polski\omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Trying to load font information for OMS+plsy on input line 42.
+LaTeX Font Info:    Trying to load font information for OMS+plsy on input line 43.
  (D:\LaTeX\tex/latex/polski\omsplsy.fd
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Trying to load font information for OMX+plex on input line 42.
+LaTeX Font Info:    Trying to load font information for OMX+plex on input line 43.
  (D:\LaTeX\tex/latex/polski\omxplex.fd
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <12> on input line 42.
+(Font)              <12> on input line 43.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <8> on input line 42.
+(Font)              <8> on input line 43.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <6> on input line 42.
+(Font)              <6> on input line 43.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
+ (D:\LaTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
+ (D:\LaTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (0.50456pt too wide) in paragraph at lines 46--47
+[]\OT4/qpl/m/n/10 Poni»szy ra-port przed-sta-wia ana-li-z¦ sze-re-gu cza-so-we-go opi-su-j¡-ce-go ob-ci¡-»e-nie na sie-ci elek-
+ []
 
-Overfull \hbox (8.09367pt too wide) in paragraph at lines 60--61
-\OT4/qpl/m/n/10 Gªównym ce-lem ra-por-tu b¦-dzie do-pa-so-wa-nie sze-re-gu AR-MA do da-nych, wi¦c na-le-»y wpierw
+
+Overfull \hbox (19.89467pt too wide) in paragraph at lines 46--47
+\OT4/qpl/m/n/10 trycz-nej na pod-sta-wie da-nych z ryn-ku ame-ry-ka«-skie-go z prze-strze-ni dni od 01.01.2016 do 31.12.2017.
  []
 
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 62.
+(mdframed)              on input line 63.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <10> on input line 64.
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <7> on input line 64.
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <5> on input line 64.
+(Font)              <10.95> on input line 65.
+<../plots/dane_dwudniowe.png, id=29, 419.166pt x 327.3831pt>
+File: ../plots/dane_dwudniowe.png Graphic file (type png)
+<use ../plots/dane_dwudniowe.png>
+Package pdftex.def Info: ../plots/dane_dwudniowe.png  used on input line 82.
+(pdftex.def)             Requested size: 211.38832pt x 165.10486pt.
+<../plots/dane_dwutygodniowe.png, id=31, 427.1157pt x 327.3831pt>
+File: ../plots/dane_dwutygodniowe.png Graphic file (type png)
+<use ../plots/dane_dwutygodniowe.png>
+Package pdftex.def Info: ../plots/dane_dwutygodniowe.png  used on input line 90.
+(pdftex.def)             Requested size: 211.38832pt x 162.02765pt.
+<../plots/dane_dwuletnie.png, id=32, 419.166pt x 327.3831pt>
+File: ../plots/dane_dwuletnie.png Graphic file (type png)
+<use ../plots/dane_dwuletnie.png>
+Package pdftex.def Info: ../plots/dane_dwuletnie.png  used on input line 96.
+(pdftex.def)             Requested size: 211.38832pt x 165.10486pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<../plots/acf_niezmodyfikowane.png, id=33, 424.2249pt x 327.3831pt>
+File: ../plots/acf_niezmodyfikowane.png Graphic file (type png)
+<use ../plots/acf_niezmodyfikowane.png>
+Package pdftex.def Info: ../plots/acf_niezmodyfikowane.png  used on input line 111.
+(pdftex.def)             Requested size: 211.38832pt x 163.13165pt.
+<../plots/pacf_niezmodyfikowane.png, id=34, 424.2249pt x 328.1058pt>
+File: ../plots/pacf_niezmodyfikowane.png Graphic file (type png)
+<use ../plots/pacf_niezmodyfikowane.png>
+Package pdftex.def Info: ../plots/pacf_niezmodyfikowane.png  used on input line 113.
+(pdftex.def)             Requested size: 211.38832pt x 163.49176pt.
 [1
 
-{C:/Users/eemil/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (raport.aux)
+{C:/Users/eemil/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+ []
+
+[2 <../plots/dane_dwudniowe.png> <../plots/dane_dwutygodniowe.png> <../plots/dane_dwuletnie.png> <../plots/acf_niezmodyfikowane.png> <../plots/pacf_niezmodyfikowane.png>]
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 121.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 127.
+ [3] (raport.aux)
 Package rerunfilecheck Info: File `raport.out' has not changed.
-(rerunfilecheck)             Checksum: 6B606B14426F3BD135CA7E99E922C456;225.
+(rerunfilecheck)             Checksum: F13F7E88FDA706316852E618CB4036FF;336.
  ) 
 Here is how much of TeX's memory you used:
- 9677 strings out of 480120
- 150149 string characters out of 5894496
- 476090 words of memory out of 5000000
- 26116 multiletter control sequences out of 15000+600000
- 576689 words of font info for 60 fonts, out of 8000000 for 9000
+ 9811 strings out of 480120
+ 152523 string characters out of 5894496
+ 478895 words of memory out of 5000000
+ 26226 multiletter control sequences out of 15000+600000
+ 578647 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,6n,78p,736b,323s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{D:/LaTeX/fonts/enc/dvips/pl/plrm.enc}{D:/LaTeX/fonts/enc/dvips/pl/plme.enc}{D:/LaTeX/fonts/enc/dvips/pl/plms.enc}{D:/LaTeX/fonts/enc/dvips/pl/plmi.enc}{D:/LaTeX/fonts/enc/dvips/tex-gyre/q-rm.enc}<D:/LaTeX/fonts/type1/public/pl/plex10.pfb><D:/LaTeX/fonts/type1/public/pl/plmi10.pfb><D:/LaTeX/fonts/type1/public/pl/plmi7.pfb><D:/LaTeX/fonts/type1/public/pl/plr10.pfb><D:/LaTeX/fonts/type1/public/pl/plr7.pfb><D:/LaTeX/fonts/type1/public/pl/plsy10.pfb><D:/LaTeX/fonts/type1/public/pl/plsy7.pfb><D:/LaTeX/fonts/type1/public/tex-gyre/qplb.pfb><D:/LaTeX/fonts/type1/public/tex-gyre/qplr.pfb><D:/LaTeX/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on raport.pdf (1 page, 186054 bytes).
+ 70i,8n,78p,809b,361s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{D:/LaTeX/fonts/enc/dvips/tex-gyre/q-rm.enc}{D:/LaTeX/fonts/enc/dvips/pl/plrm.enc}{D:/LaTeX/fonts/enc/dvips/pl/plme.enc}{D:/LaTeX/fonts/enc/dvips/pl/plms.enc}{D:/LaTeX/fonts/enc/dvips/pl/plmi.enc}<D:/LaTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><D:/LaTeX/fonts/type1/public/pl/plex10.pfb><D:/LaTeX/fonts/type1/public/pl/plmi10.pfb><D:/LaTeX/fonts/type1/public/pl/plmi8.pfb><D:/LaTeX/fonts/type1/public/pl/plr10.pfb><D:/LaTeX/fonts/type1/public/pl/plr8.pfb><D:/LaTeX/fonts/type1/public/pl/plsy10.pfb><D:/LaTeX/fonts/type1/public/pl/plsy8.pfb><D:/LaTeX/fonts/type1/public/tex-gyre/qplb.pfb><D:/LaTeX/fonts/type1/public/tex-gyre/qplbi.pfb><D:/LaTeX/fonts/type1/public/tex-gyre/qplr.pfb><D:/LaTeX/fonts/type1/public/tex-gyre/qplri.pfb>
+Output written on raport.pdf (3 pages, 427400 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 119 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 500000)
+ 74 words of extra memory for PDF output out of 10000 (max. 10000000)
 
