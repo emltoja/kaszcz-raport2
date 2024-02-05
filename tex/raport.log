@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.15)  5 FEB 2024 20:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.15)  5 FEB 2024 21:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -610,33 +610,33 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 63.
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <10.95> on input line 65.
-<../plots/dane_dwudniowe.png, id=29, 419.166pt x 327.3831pt>
-File: ../plots/dane_dwudniowe.png Graphic file (type png)
-<use ../plots/dane_dwudniowe.png>
-Package pdftex.def Info: ../plots/dane_dwudniowe.png  used on input line 82.
+<../plots//dane_dwudniowe.png, id=33, 419.166pt x 327.3831pt>
+File: ../plots//dane_dwudniowe.png Graphic file (type png)
+<use ../plots//dane_dwudniowe.png>
+Package pdftex.def Info: ../plots//dane_dwudniowe.png  used on input line 82.
 (pdftex.def)             Requested size: 211.38832pt x 165.10486pt.
-<../plots/dane_dwutygodniowe.png, id=31, 427.1157pt x 327.3831pt>
-File: ../plots/dane_dwutygodniowe.png Graphic file (type png)
-<use ../plots/dane_dwutygodniowe.png>
-Package pdftex.def Info: ../plots/dane_dwutygodniowe.png  used on input line 90.
+<../plots//dane_dwutygodniowe.png, id=35, 427.1157pt x 327.3831pt>
+File: ../plots//dane_dwutygodniowe.png Graphic file (type png)
+<use ../plots//dane_dwutygodniowe.png>
+Package pdftex.def Info: ../plots//dane_dwutygodniowe.png  used on input line 90.
 (pdftex.def)             Requested size: 211.38832pt x 162.02765pt.
-<../plots/dane_dwuletnie.png, id=32, 419.166pt x 327.3831pt>
-File: ../plots/dane_dwuletnie.png Graphic file (type png)
-<use ../plots/dane_dwuletnie.png>
-Package pdftex.def Info: ../plots/dane_dwuletnie.png  used on input line 96.
+<../plots//dane_dwuletnie.png, id=36, 419.166pt x 327.3831pt>
+File: ../plots//dane_dwuletnie.png Graphic file (type png)
+<use ../plots//dane_dwuletnie.png>
+Package pdftex.def Info: ../plots//dane_dwuletnie.png  used on input line 96.
 (pdftex.def)             Requested size: 211.38832pt x 165.10486pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<../plots/acf_niezmodyfikowane.png, id=33, 424.2249pt x 327.3831pt>
-File: ../plots/acf_niezmodyfikowane.png Graphic file (type png)
-<use ../plots/acf_niezmodyfikowane.png>
-Package pdftex.def Info: ../plots/acf_niezmodyfikowane.png  used on input line 111.
+<../plots//acf_niezmodyfikowane.png, id=37, 424.2249pt x 327.3831pt>
+File: ../plots//acf_niezmodyfikowane.png Graphic file (type png)
+<use ../plots//acf_niezmodyfikowane.png>
+Package pdftex.def Info: ../plots//acf_niezmodyfikowane.png  used on input line 111.
 (pdftex.def)             Requested size: 211.38832pt x 163.13165pt.
-<../plots/pacf_niezmodyfikowane.png, id=34, 424.2249pt x 328.1058pt>
-File: ../plots/pacf_niezmodyfikowane.png Graphic file (type png)
-<use ../plots/pacf_niezmodyfikowane.png>
-Package pdftex.def Info: ../plots/pacf_niezmodyfikowane.png  used on input line 113.
+<../plots//pacf_niezmodyfikowane.png, id=38, 424.2249pt x 328.1058pt>
+File: ../plots//pacf_niezmodyfikowane.png Graphic file (type png)
+<use ../plots//pacf_niezmodyfikowane.png>
+Package pdftex.def Info: ../plots//pacf_niezmodyfikowane.png  used on input line 113.
 (pdftex.def)             Requested size: 211.38832pt x 163.49176pt.
 [1
 
@@ -645,7 +645,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
  []
 
-[2 <../plots/dane_dwudniowe.png> <../plots/dane_dwutygodniowe.png> <../plots/dane_dwuletnie.png> <../plots/acf_niezmodyfikowane.png> <../plots/pacf_niezmodyfikowane.png>]
+[2 <../plots//dane_dwudniowe.png> <../plots//dane_dwutygodniowe.png> <../plots//dane_dwuletnie.png> <../plots//acf_niezmodyfikowane.png> <../plots//pacf_niezmodyfikowane.png>]
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 121.
@@ -663,27 +663,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--146
  []
 
 [3] (raport.aux)
-
-Package rerunfilecheck Warning: File `raport.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `raport.out':
-(rerunfilecheck)             Before: F13F7E88FDA706316852E618CB4036FF;336
-(rerunfilecheck)             After:  4D2B6801B393109534E14D3EA8C7462C;405.
+Package rerunfilecheck Info: File `raport.out' has not changed.
+(rerunfilecheck)             Checksum: 4D2B6801B393109534E14D3EA8C7462C;405.
  ) 
 Here is how much of TeX's memory you used:
- 9814 strings out of 480120
- 152563 string characters out of 5894496
- 478895 words of memory out of 5000000
- 26228 multiletter control sequences out of 15000+600000
+ 9815 strings out of 480120
+ 152605 string characters out of 5894496
+ 478892 words of memory out of 5000000
+ 26229 multiletter control sequences out of 15000+600000
  584529 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,8n,78p,809b,361s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {D:/LaTeX/fonts/enc/dvips/tex-gyre/q-rm.enc}{D:/LaTeX/fonts/enc/dvips/pl/plrm.enc}{D:/LaTeX/fonts/enc/dvips/pl/plme.enc}{D:/LaTeX/fonts/enc/dvips/pl/plms.enc}{D:/LaTeX/fonts/enc/dvips/pl/plmi.enc}<D:/LaTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><D:/LaTeX/fonts/type1/public/pl/plex10.pfb><D:/LaTeX/fonts/type1/public/pl/plmi10.pfb><D:/LaTeX/fonts/type1/public/pl/plmi8.pfb><D:/LaTeX/fonts/type1/public/pl/plr10.pfb><D:/LaTeX/fonts/type1/public/pl/plr8.pfb><D:/LaTeX/fonts/type1/public/pl/plsy10.pfb><D:/LaTeX/fonts/type1/public/pl/plsy8.pfb><D:/LaTeX/fonts/type1/public/tex-gyre/qplb.pfb><D:/LaTeX/fonts/type1/public/tex-gyre/qplbi.pfb><D:/LaTeX/fonts/type1/public/tex-gyre/qplr.pfb><D:/LaTeX/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on raport.pdf (3 pages, 430163 bytes).
+Output written on raport.pdf (3 pages, 430406 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
+ 123 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
- 74 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 82 words of extra memory for PDF output out of 10000 (max. 10000000)
 
