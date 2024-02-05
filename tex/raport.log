@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.15)  5 FEB 2024 16:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.15)  5 FEB 2024 20:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -652,22 +652,38 @@ Package mdframed Info: mdframed detected package amsthm
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 127.
- [3] (raport.aux)
-Package rerunfilecheck Info: File `raport.out' has not changed.
-(rerunfilecheck)             Checksum: F13F7E88FDA706316852E618CB4036FF;336.
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--146
+
+ []
+
+[3] (raport.aux)
+
+Package rerunfilecheck Warning: File `raport.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `raport.out':
+(rerunfilecheck)             Before: F13F7E88FDA706316852E618CB4036FF;336
+(rerunfilecheck)             After:  4D2B6801B393109534E14D3EA8C7462C;405.
  ) 
 Here is how much of TeX's memory you used:
- 9811 strings out of 480120
- 152523 string characters out of 5894496
+ 9814 strings out of 480120
+ 152563 string characters out of 5894496
  478895 words of memory out of 5000000
- 26226 multiletter control sequences out of 15000+600000
- 578647 words of font info for 64 fonts, out of 8000000 for 9000
+ 26228 multiletter control sequences out of 15000+600000
+ 584529 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,8n,78p,809b,361s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {D:/LaTeX/fonts/enc/dvips/tex-gyre/q-rm.enc}{D:/LaTeX/fonts/enc/dvips/pl/plrm.enc}{D:/LaTeX/fonts/enc/dvips/pl/plme.enc}{D:/LaTeX/fonts/enc/dvips/pl/plms.enc}{D:/LaTeX/fonts/enc/dvips/pl/plmi.enc}<D:/LaTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><D:/LaTeX/fonts/type1/public/pl/plex10.pfb><D:/LaTeX/fonts/type1/public/pl/plmi10.pfb><D:/LaTeX/fonts/type1/public/pl/plmi8.pfb><D:/LaTeX/fonts/type1/public/pl/plr10.pfb><D:/LaTeX/fonts/type1/public/pl/plr8.pfb><D:/LaTeX/fonts/type1/public/pl/plsy10.pfb><D:/LaTeX/fonts/type1/public/pl/plsy8.pfb><D:/LaTeX/fonts/type1/public/tex-gyre/qplb.pfb><D:/LaTeX/fonts/type1/public/tex-gyre/qplbi.pfb><D:/LaTeX/fonts/type1/public/tex-gyre/qplr.pfb><D:/LaTeX/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on raport.pdf (3 pages, 427400 bytes).
+Output written on raport.pdf (3 pages, 430163 bytes).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
+ 120 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
  74 words of extra memory for PDF output out of 10000 (max. 10000000)
 

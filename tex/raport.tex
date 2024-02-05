@@ -134,5 +134,15 @@ $$ \phi_k = \Gamma_k^{-1}\gamma_k, $$
 $ \Gamma_k = \left[\gamma\left(i - j\right)\right]_{i,j = 1}^k $, $\gamma_k = \left[\gamma\left(1\right), \gamma\left(2\right), \ldots, \gamma\left(k\right)\right]$.
 \end{definition}
 
-Na wykresach \ref{fig:acf_pacf_niezmodyfikowane} przedstawiono wykresy próbkowych ACF i PACF dla poszczególnych przesunięć czasowych. Jak widać funkcja autokorelacji nie zanika do zera, co byłoby charakterystyczne dla szeregu ARMA, lecz oscyluje wokół pewnej wartości. Choć od pewnego momentu funkcja PACF wydaje się zanikać do zera, to możemy zaobserwować okresowo występujące wartości odstające. Wszystko to wskazuje, że nie mamy do czynienia ze stacjonarnym szeregiem czasowym.
+Na wykresach \ref{fig:acf_pacf_niezmodyfikowane} przedstawiono wykresy próbkowych ACF i PACF dla poszczególnych przesunięć czasowych. Jak widać funkcja autokorelacji nie zanika do zera, co byłoby charakterystyczne dla szeregu ARMA, lecz oscyluje wokół pewnej wartości. Choć od pewnego momentu funkcja PACF wydaje się zanikać do zera, to możemy zaobserwować okresowo występujące wartości odstające. Wszystko to wskazuje, że nie mamy do czynienia ze stacjonarnym szeregiem czasowym. \\ 
+
+Kolejnym krokiem, który możemy podjąć celem weryfikacji naszych obserwacji jest skorzystanie z rozszerzonego testu Dickeya-Fullera. Jego procedura polega na testowaniu 
+$$ H_0: \text{szereg jest niestacjonarny} $$
+przeciwko 
+$$ H_1: \text{szereg jest stacjonarny}. $$
+Przyjmijmy poziom istotności $\alpha = 0,05$ i przeprowadźmy test. W rezultacie otrzymujemy 
+$$ p \approx 0,08, $$
+gdzie $p$ oznacza p-wartość. Tym samym odrzucamy hipotezę na rzecz alternatywnej, co oznacza, że zakładamy, że szereg nie jest stacjonarny. \\ 
+
+\subsection{Dekompozycja szeregu}
 \end{document}
